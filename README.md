@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Hunt291103
+- 👋 Hi, I’m @rohit_291103
 - 👀 I’m interested in Computer Science in Ai Ml and data science domain
 - 🌱 I’m currently learning c/c++
 - 💞️ I’m looking to collaborate on ...
